@@ -1,2 +1,2 @@
-# Flutter-App-s
-My Projects and App's i made using Flutter
+# My Projects and Apps which I made with Flutter
+
