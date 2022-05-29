@@ -29,13 +29,11 @@ class _EngameHomePageState extends State<EngameHomePage> {
                 setState(() {
                   bodyWidget = pages[activeIndex];
                 });
-              }
-              if (activeIndex == 1) {
+              } else if (activeIndex == 1) {
                 setState(() {
                   bodyWidget = pages[activeIndex];
                 });
-              }
-              if (activeIndex == 2) {
+              } else if (activeIndex == 2) {
                 setState(() {
                   bodyWidget = pages[activeIndex];
                 });
