@@ -1,5 +1,6 @@
 # ENGAME
 
 Turkish - English Word Game
-![alt text]([http://url/to/img.png](https://play-lh.googleusercontent.com/yqg9dGaz_CnxBkPFYi4Yhti90RZLhMFIptPQ-yOe6fJWvCscTzb3scjqedCs1ilhiGXt=w2560-h1440-rw))
+![IMG_20220414_015811](https://user-images.githubusercontent.com/88507880/170855701-50e4c459-8ccd-4c68-a3ff-f5bc536b3536.jpg)
+
 ## https://play.google.com/store/apps/details?id=com.avarjuan.engame
